@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 🕵️‍♂️ About Me:
 I am a dedicated Full-Stack Web Developer with a strong proficiency in building secure, scalable, and database-driven web applications. My core expertise lies in using PHP and the Laravel framework for robust backend development, coupled with MySQL for optimized relational database solutions. I am skilled in developing RESTful APIs, implementing complex multi-role authentication systems, and transforming design wireframes into clean, production-ready code with a primary focus on application performance, functionality, and an exceptional user experience.<br><br>Based on my skill set, here is how I can best structure the sections:<br><br>I’m currently working on...<br>🔭 I am leveraging my hands-on experience in PHP, Laravel, and MySQL to build and maintain high-performance, secure, and scalable database-driven web applications. I focus on end-to-end functionality, from developing RESTful APIs to implementing complex multi-role authentication systems.<br><br>I’m looking to collaborate on...<br>👯 I am eager to contribute my full-stack expertise to optimized relational database solutions and backend development for open-source projects or innovative tech ventures. I welcome opportunities to help teams transform design wireframes into clean, production-ready code, always prioritizing a seamless and efficient user experience.<br><br>Ask me about...<br>💬 Let’s connect and talk about building scalable web applications. I can share insights on application performance and functionality, backend architecture with Laravel, effective database management, and best practices for creating secure, user-centric experiences in web development.
 
 
@@ -11,10 +11,3 @@ I am a dedicated Full-Stack Web Developer with a strong proficiency in building 
 ![](https://github-readme-stats.shion.dev/api?username=Ranajit0002&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ranajit0002&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ranajit0002&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ranajit0002&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Ranajit0002&icon=9&color=11)](https://visitcount.itsvg.in)
-
